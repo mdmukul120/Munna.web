@@ -1,0 +1,19 @@
+body{
+    background-image: url('bg.gif');
+    background-size:500em;
+    background-repeat: no-repeat;
+    backface-visibility: big;
+    background-position: top;
+   
+    }
+    
+ .fa {
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: royalblue;
+  margin: 50px 50px;
+  background-image: url('4.jpeg');
+
+
+
